@@ -92,7 +92,6 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-
             <Nav.Item>
               <Nav.Link
                 as={Link}
@@ -102,10 +101,10 @@ function NavBar() {
                 <ImPhone style={{ marginBottom: "2px" }} /> Contact me
               </Nav.Link>
             </Nav.Item>
-            
+
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/rak3xh/Portfolio-React"
+                href="https://github.com/rak3xh/Portfolio-Using-React"
                 target="_blank"
                 className="fork-btn-inner"
               >
