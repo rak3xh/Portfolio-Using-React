@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I work as an Associate Software Engineer😊. I develop Windows Apllication using different technologies.
+              I work as an Associate Software Engineer😊. I develop Windows Application using different technologies.
               <br />
               <br />I am fluent in classics like
               <i>
