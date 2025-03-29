@@ -104,7 +104,7 @@ function Projects() {
               isBlog={false}
               title="Portfolio Website"
               description="It is a portfolio website designed for web developers to showcase their projects to tell about themselves and if anyone wants to hire them."
-              ghLink="https://github.com/rak3xh/Portfolio-React"
+              ghLink="https://github.com/rak3xh/Portfolio-Using-React"
               demoLink="https://rak3xh-portfolio.vercel.app/"
             />
           </Col>
